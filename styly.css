@@ -1,0 +1,13 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+
+nav li {display: inline-block; background-color: rgb(204,0,204);
+color: white; font-weight: bold; padding: 20px; 
+width: 50px; border-radius: 15px}
+li {border-radius: 15px;}
+aside img{height: 200px;}
+aside {float: left; width: 30%;}
+article {float: right; width: 70%;}
+footer {clear: both; margin-bottom: 200px; background-color: 
+	rgb(204,0,204); padding: 10px; border-radius: 15px; }
